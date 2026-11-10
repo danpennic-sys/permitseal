@@ -1,0 +1,15 @@
+{
+  "report_type": "permit_inspection",
+  "date": "2026-11-10",
+  "site": "Field Site Alpha",
+  "job_id": "JOB-2026-1101",
+  "permit_id": "PERM-2026-BLDG-4421",
+  "permit_type": "Building / Excavation",
+  "issuing_authority": "City of Springfield Building Dept",
+  "inspection_type": "Foundation / Rough",
+  "inspector_name": "Inspector R. Davis",
+  "result": "PASSED",
+  "conditions": "No deficiencies noted.",
+  "notes": "Inspection completed. Sticker affixed.",
+  "sealed_at": "2026-11-10T15:00:00Z"
+}
