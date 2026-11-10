@@ -37,7 +37,7 @@ Expected: **PASS**.
 | Command   | $149  | + batch mode + CSV/HTML export + reseller rights |
 | Agency    | $399  | + white-label + multi-site key management |
 
-**Buy Operator Pack:** Contact for checkout.  
+**Buy Operator Pack:** [Test checkout](https://buy.stripe.com/test_bJe8wO1Cz0SIcxG4Gsew806) or contact for live.  
 Contact: danpennic@gmail.com  
 Repo: https://github.com/danpennic-sys/permitseal
 
